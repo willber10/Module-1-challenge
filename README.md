@@ -22,7 +22,7 @@ https://shhutc18.github.io/Module-1-Challenge/
 
 ## Screenshot
 
-
+<img src="./assets/images/shhutc18.DeployedWebpage.jpg">
 
 ## License
 
